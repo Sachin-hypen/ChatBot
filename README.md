@@ -13,5 +13,3 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-# 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     deepseek
-# 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     gpt-4.1
